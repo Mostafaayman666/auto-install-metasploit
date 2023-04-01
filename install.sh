@@ -1,3 +1,5 @@
+cd
+clear
 git clone https://github.com/Mostafaayman666/metasploit-main
 cd metasploit
 bash install.sh
