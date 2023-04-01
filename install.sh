@@ -1,6 +1,6 @@
 cd
 clear
-git clone https://github.com/Mostafaayman666/metasploit-main
+git clone https://github.com/Mostafaayman666/metasploit
 cd metasploit
 bash install.sh
 cd fix-metasploit
