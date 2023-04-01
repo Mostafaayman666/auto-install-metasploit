@@ -1,5 +1,3 @@
-pkg update && pkg upgrade
-pkg install git
 git clone https://github.com/Mostafaayman666/metasploit-main
 cd metasploit
 bash install.sh
